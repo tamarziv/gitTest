@@ -8,6 +8,7 @@ poObject *createObjectForID(uint uid) {
 
 void setupApplication() {
 	applicationCreateWindow(0, WINDOW_TYPE_NORMAL, "gitTest", 100, 100, 1024, 768);
+    // bla bla bla
 }
 
 void cleanupApplication() {
